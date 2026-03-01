@@ -381,3 +381,4 @@ Branch 1 - post-merge change 2
 Branch 1 - post-merge change 3
 Another clone: change 1
 Another clone: change 2
+Another clone: change 3
